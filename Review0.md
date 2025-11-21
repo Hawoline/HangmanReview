@@ -1,6 +1,7 @@
 # Ревью https://github.com/dab1231/task
 ## Баги
 Нажимаю 1 пункт меню и загаданное слово сразу показывается:
+
 <img width="481" height="486" alt="image" src="https://github.com/user-attachments/assets/a15c2da1-1075-4913-bf8a-78fa8cb7600e" />
 Также ошибка вывелась, если в меню написать букву, а не число(Более подробно распишу нижу в классе `RunGame`):
 <img width="890" height="424" alt="image" src="https://github.com/user-attachments/assets/29c1e979-4484-4eb9-9e05-77fa539897c9" />
