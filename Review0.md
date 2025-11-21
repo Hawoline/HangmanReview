@@ -131,6 +131,7 @@ char[] extractedCharsFromString = StringUtil.extractChars(Generate.GenerateWord(
 Game game = new Game(extractedCharsFromString, guessWord);
 ```
 Есть подозрения, что метод makeGuess содержит странную логику, что багует игру. Но это оставлю тебе будущему поискать отлавливать баг. Также не игнорируй подсказки IDE, но и не слепо верь. Насколько я понял, у тебя не Intellij IDEA, поэтому скорее всего и не увидел данную подсказку.
+
 <img width="273" height="193" alt="image" src="https://github.com/user-attachments/assets/6209fdc0-63ff-4f0c-86c3-4840cedce477" />
 
 ```java
